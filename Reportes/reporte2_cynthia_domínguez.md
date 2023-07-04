@@ -25,10 +25,11 @@ Considero que para poder tener un buen desempeño es importante conocer bien tu 
 
 Para esta área creo que es importante manejar las herramientas como Excel, PowerBI y Tableau, que son las que al momento sé que sirven para trabajar en el análisis. Son importantes porque se pueden desarrollar gráficas basandonos en los datos de la base y generar un tablero donde se muestren diferentes resultados comprendibles para los usuarios que no saben nada sobre bases de datos. 
 
-![Logo de Markdown](img/excelD.jpeg)
+<img src="img/excelD.jpeg" alt="Logo de Excel" width="200" height="200">
 
-![Logo de Markdown](img/powerBID.jpeg)
+<img src="img/powerBID.jpeg" alt="Logo de Power BI" width="200" height="200">
 
-![Logo de Markdown](img/tableauD.png)
+<img src="img/tableauD.png" alt="Logo de Tableau" width="200" height="200">
+
 
 </div>  
